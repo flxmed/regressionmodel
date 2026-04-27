@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/3840p60/partial_movie_files/Scene1_SpaceGrotesk_Ultimate/1499476354_3419738906_3226244944.mp4'
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/3840p60/partial_movie_files/Scene1_SpaceGrotesk_Ultimate/1416780257_521077346_3378749900.mp4'
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/3840p60/partial_movie_files/Scene1_SpaceGrotesk_Ultimate/1416780257_3431102394_823515578.mp4'
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/3840p60/partial_movie_files/Scene1_SpaceGrotesk_Ultimate/1416780257_1792986346_3840488716.mp4'

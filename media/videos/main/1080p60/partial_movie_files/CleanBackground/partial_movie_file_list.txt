@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CleanBackground/2615370746_1432596116_1584839702.mp4'

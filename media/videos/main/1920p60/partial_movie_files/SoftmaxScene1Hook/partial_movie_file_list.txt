@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1920p60/partial_movie_files/SoftmaxScene1Hook/3184082906_2617917520_3907285822.mp4'
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1920p60/partial_movie_files/SoftmaxScene1Hook/2823251709_4124729656_4135238971.mp4'
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1920p60/partial_movie_files/SoftmaxScene1Hook/2823251709_1247874429_4135238971.mp4'
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1920p60/partial_movie_files/SoftmaxScene1Hook/2823251709_4008109570_4237445406.mp4'
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1920p60/partial_movie_files/SoftmaxScene1Hook/2823251709_3047133025_3547384933.mp4'
-file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1920p60/partial_movie_files/SoftmaxScene1Hook/2823251709_1823455671_1859398435.mp4'
