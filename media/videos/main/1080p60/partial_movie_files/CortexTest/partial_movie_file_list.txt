@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/3544663784_2297977634_223132457.mp4'
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/260329756_1432596116_1288983424.mp4'
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/260329756_1804844884_27335724.mp4'
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/260329756_1432596116_4150254374.mp4'
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/260329756_3417516481_4129151947.mp4'
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/260329756_2860342817_691969773.mp4'
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/260329756_2872842549_1982347772.mp4'
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/260329756_2434025670_2142103364.mp4'
+file 'file:C:/Users/itsmi/.vscode/python/media/videos/main/1080p60/partial_movie_files/CortexTest/260329756_2872842549_2621647275.mp4'

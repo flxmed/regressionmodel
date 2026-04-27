@@ -1,0 +1,15 @@
+# Model weights
+*.pth
+
+# Dataset
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment
+.env
