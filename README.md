@@ -11,7 +11,7 @@ To fix overfitting problem I've decided to use regularization technique called d
 
 
 ## Results
-Final Test RMSE: $XX,XXX
+Final Test RMSE: $48,420
 
 
 ## How to run
