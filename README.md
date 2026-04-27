@@ -16,4 +16,5 @@ Final Test RMSE: $XX,XXX
 
 ## How to run
 pip install -r requirements.txt
+
 python housing_regression.py
