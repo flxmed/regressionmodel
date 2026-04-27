@@ -40,4 +40,5 @@ result = predict({
     "ocean_proximity": "NEAR BAY"
 })
 
-print(f"Predicted house value: ${result:,.0f}")
+print(f"Predicted house value: ${result:,.0f}") #$372,309
+ 
